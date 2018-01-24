@@ -1,15 +1,15 @@
-# Xcode-Monokai Xcode >= 7.0
+# Xcode 8 sublime-Monokai 经典配色
 
+## Xcode-Monokai Xcode >= 7.0
+ 1. 终端 $  open /Applications/Xcode.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/FontAndColorThemes/  
 
-* 终端 $  open /Applications/Xcode.app/Contents/SharedFrameworks/DVTKit.framework/Versions/A/Resources/FontAndColorThemes/  
+ 2.  Monokai.xccolortheme 
 
-*  Monokai.xccolortheme 
+ 3.  Restart Xcode.
 
-*  Restart Xcode.
-
-*  Apply Monokai theme.
+ 4.  Apply Monokai theme.
 
 
 # 效果
 
-![Alt text](./Monikai.png)
+![sublime-Monokai](/Monikai.png)
